@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a64843a6-5c35-4617-bd56-8058afe46202",
+    "data": [
+      {
+        "text": "about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529489522
+  },
+  {
+    "id": "fa2a1e60-72ce-456b-a079-39ac86815b97",
+    "data": [
+      {
+        "text": "about bmu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529477076
+  },
+  {
+    "id": "59a1c787-2845-40db-82c9-99eeaccad828",
+    "data": [
+      {
+        "text": "About university",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529477076
+  }
+]
